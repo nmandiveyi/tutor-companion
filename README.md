@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="mail package manager logo" height="150" />
   <h1>
-    <font color="#9E4D3B">Tutor Companion</font>
+    <font color="#9E4D3B">Tutor's Companion</font>
   </h1>
 </div>
 <p align="center">
