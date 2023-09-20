@@ -26,6 +26,8 @@
 
 ## Description
 
+A backend application to manage a small private tutoring business.
+
 ## Requirements
  - Python 3.9.6
  - Django 4.2.5
