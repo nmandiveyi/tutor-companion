@@ -77,5 +77,5 @@ $ DATABASE_PORT=<DATABASE_PORT>
 
 To start up the Django's development server, navigate to the root of the project and run the command:
 ```
-python manage.py runserver
+$ python manage.py runserver
 ```
