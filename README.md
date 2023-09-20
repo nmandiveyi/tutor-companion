@@ -43,7 +43,7 @@ After this, it becomes essential to activate the virtual environment. For additi
 To install all the necessary dependencies, execute the command:
 
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Environment variables
