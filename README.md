@@ -1,4 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <br />
 <div align="center">
   <img src="./assets/logo.png" alt="mail package manager logo" height="150" />
